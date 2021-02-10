@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Back-end
+  - PHP
+  - Python
+- Front-end
+  - Javasrcipt
+  - HTML
