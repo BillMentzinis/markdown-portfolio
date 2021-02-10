@@ -1,0 +1,6 @@
+- Back-end
+  - PHP
+  - Python
+- Front-end
+  - Javasrcipt
+  - HTML
